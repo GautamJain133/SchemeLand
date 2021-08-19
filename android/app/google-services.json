@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048144178510",
+    "project_id": "hackathon-e7945",
+    "storage_bucket": "hackathon-e7945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048144178510:android:3ca59f842d526bfa88421f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_wepportfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048144178510-7f5sjj97gue68ueq22a4sm3gdlmej1sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_wepportfolio",
+            "certificate_hash": "f36ab0b7e4a074a237e0ad1b84ed9e68400e065b"
+          }
+        },
+        {
+          "client_id": "1048144178510-5tv95hmmentd3calt6oe5eqcbbfhhfok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSMR6UgJcG5mvfA2RuTD5L8KBYDSlppyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048144178510-5tv95hmmentd3calt6oe5eqcbbfhhfok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
